@@ -3,7 +3,7 @@
 This repository contains a small prototype for digitizing gold production records. It shows how to use **Amazon Textract** to process scanned receipts and view the extracted information from a simple dashboard.
 
 ## Setup
-
+nhj
 1. Install the requirements (preferably in a virtual environment):
 
    ```bash
